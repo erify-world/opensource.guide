@@ -1,0 +1,37 @@
+---
+name: "✨ Feature Request"
+about: Suggest an idea to improve the ERIFY™ ecosystem
+title: "✨ [Feature] <short title>"
+labels: enhancement, ERIFY™, 4PW
+---
+
+## 🌍 Summary
+Briefly describe the feature request.  
+Example: *Add ERIVOX™ AI Assistant to ERIFY™ Global App.*
+
+---
+
+## 🔥 Motivation
+- Why is this feature important for ERIFY™?  
+- Which part of the 4PW Legacy (Faith • Power • Wisdom • Wealth) does it support?  
+
+---
+
+## 💎 Proposed Solution
+Explain your idea in detail.  
+- What should be built?  
+- How should it work?  
+- Any specific APIs, tools, or libraries?  
+
+---
+
+## ✅ Acceptance Criteria
+- [ ] Feature works as described  
+- [ ] Matches ERIFY™ brand standards (luxury, visionary, global)  
+- [ ] Uses ERIFY emojis 🌍💎🔥 where needed  
+- [ ] Includes documentation / README updates  
+
+---
+
+## 📌 Additional Context
+Add screenshots, diagrams, or links if available.
